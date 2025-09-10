@@ -1,5 +1,5 @@
 <h1 align="center" style="color: #ffffff;">Hi, I'm Victor !</h1>
-<h3 align="center" style="color: #ffffff;">Student in Pré-MSC at Epitech</h3>
+<h3 align="center" style="color: #ffffff;">Student in Pre Master of Science at Epitech</h3>
 
 - :dizzy: **Web Developer** aiming to become fullstack.
 
