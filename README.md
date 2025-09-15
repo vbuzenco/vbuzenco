@@ -3,9 +3,9 @@
 
 - :dizzy: **Web Developer** aiming to become fullstack.
 
-- 📖 I’m currently learning **React**.
+- 📖 I’m currently learning **JavaScript and React**.
 
-- :hearts: **Scuderia Ferrari** fan.
+- :hearts: **Red Bull Racing** fan.
 
 <p align="center">
 </p>
