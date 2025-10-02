@@ -13,7 +13,7 @@
 <h3 align="left" style="color: #ffffff;">Languages and Tools I'm using in my projects :</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=figma,html,css,js,jquery,ts,tailwind,php,symfony,mysql,git" />
+    <img src="https://skillicons.dev/icons?i=figma,html,css,js,jquery,ts,tailwind,python,php,symfony,mysql,git,linux" />
   </a>
 </p>
 
